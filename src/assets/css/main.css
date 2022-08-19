@@ -1072,10 +1072,9 @@ ul#nav li.current a {
 
 #resume {
   background: #fff;
-  padding-top: 1.5em;
-  padding-bottom: 3em;
+  padding-top: 0;
   overflow: hidden;
-  line-height: 2;
+  line-height: 1.85;
 }
 
 #resume a,
@@ -1153,10 +1152,10 @@ ul#nav li.current a {
 
 #resume-header {
   background-color: white;
-  padding-top: 1.33em;
+  padding-top: 1em;
   color: black;
   font-size: 1.25em;
-  line-height: 1.66em;
+  line-height: 1.4em;
 }
 
 #resume-header .title {
@@ -1171,7 +1170,7 @@ ul#nav li.current a {
 
 #resume-header .profile{
   position: absolute;
-  top: 1em;
+  top: 0.5em;
   width: 25%;
   text-align: right;
 }

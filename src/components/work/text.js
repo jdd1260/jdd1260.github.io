@@ -1,8 +1,29 @@
 const jobs = [
   {
+    company: 'Palmetto',
+    location: 'Remote',
+    dates: 'May 2020 - Present',
+    title: 'Lead/Senior Software Engineer',
+    items: [
+      'Ownership over REST APIs built with Typescript, Express, and MongoDB',
+      'Architect systems and manage team efforts',
+      'Maintain team code and testing standards',
+    ],
+  },
+  {
+    company: 'University of Washington',
+    location: 'Seattle, WA',
+    dates: 'Summers 2020, 2021',
+    title: 'Extension Lecturer Part-time',
+    items: [
+      'Taught Back-End Application Development with JavaScript',
+      'Designed curriculum, created assignments, and wrote auto-grading tests',
+    ],
+  },
+  {
     company: 'iFit',
     location: 'Remote',
-    dates: 'September 2017 - Present',
+    dates: 'September 2017 - May 2020',
     title: 'Senior JavaScript Developer, Chapter Lead',
     items: [
       'Developed microservices for AWS Lambda using Typescript.',
@@ -29,7 +50,7 @@ const jobs = [
     title: 'Associate Software Engineer',
     items: [
       'Developed rich client-side UIs using JavaScript, jQuery, and AngularJS.',
-      'Built RESTful APIs in Java.',
+      'Built Back End APIs in Java.',
       'Integrated all work with the Salesforce data platform.',
     ],
   },
