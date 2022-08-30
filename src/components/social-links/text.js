@@ -1,4 +1,4 @@
-import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/lib/fa'
+import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa'
 
 const links = [
   {

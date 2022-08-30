@@ -1,7 +1,7 @@
 import React from 'react'
 import SocialLinks from '../social-links'
 
-import { FaChevronCircleUp } from 'react-icons/lib/fa'
+import { FaChevronCircleUp } from 'react-icons/fa'
 
 import text from './text'
 

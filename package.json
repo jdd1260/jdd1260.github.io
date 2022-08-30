@@ -4,25 +4,30 @@
   "version": "1.0.1",
   "author": "Joel Detweiler <joeldetweiler@gmail.com>",
   "dependencies": {
-    "gatsby": "^1.9.277",
-    "gatsby-link": "^1.6.32",
-    "gatsby-plugin-google-analytics": "^1.0.12",
-    "gatsby-plugin-google-fonts": "0.0.3",
-    "gatsby-plugin-react-helmet": "^1.0.8",
-    "gatsby-plugin-sass": "^1.0.14",
-    "gatsby-plugin-sharp": "^1.6.21",
-    "gatsby-plugin-typography": "1.7.10",
-    "gatsby-remark-copy-linked-files": "^1.5.9",
-    "gatsby-remark-images": "^1.5.33",
-    "gatsby-source-filesystem": "^1.5.8",
-    "gatsby-transformer-remark": "^1.7.21",
-    "gatsby-transformer-sharp": "^1.6.14",
+    "gatsby": "^4.21.1",
+    "gatsby-link": "^4.21.0",
+    "gatsby-plugin-google-analytics": "^4.21.0",
+    "gatsby-plugin-google-fonts": "1.0.1",
+    "gatsby-plugin-react-helmet": "^5.21.0",
+    "gatsby-plugin-sass": "^5.21.0",
+    "gatsby-plugin-sharp": "^4.21.0",
+    "gatsby-plugin-typography": "4.21.0",
+    "gatsby-remark-copy-linked-files": "^5.21.0",
+    "gatsby-remark-images": "^6.21.0",
+    "gatsby-source-filesystem": "^4.21.1",
+    "gatsby-transformer-remark": "^5.21.0",
+    "gatsby-transformer-sharp": "^4.21.0",
     "global": "^4.3.2",
-    "lodash": "^4.17.15",
-    "react-icons": "2.2.7",
-    "react-slick": "0.16.0",
+    "lodash": "^4.17.21",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-icons": "4.4.0",
+    "react-slick": "0.29.0",
+    "react-typography": "^0.16.20",
     "slick-carousel": "1.8.1",
-    "typography-theme-bootstrap": "0.16.7"
+    "typography": "^0.16.21",
+    "typography-theme-bootstrap": "0.16.19"
   },
   "keywords": [
     "gatsby"
@@ -39,7 +44,7 @@
     "deploy": "npm run build && gh-pages --branch master --dist public"
   },
   "devDependencies": {
-    "gh-pages": "^1.2.0",
-    "prettier": "^1.9.2"
+    "gh-pages": "^4.0.0",
+    "prettier": "^2.7.1"
   }
 }
