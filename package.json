@@ -3,6 +3,9 @@
   "description": "Personal website",
   "version": "1.0.1",
   "author": "Joel Detweiler <joeldetweiler@gmail.com>",
+  "engines": {
+    "node": "18"
+  },
   "dependencies": {
     "gatsby": "^4.21.1",
     "gatsby-link": "^4.21.0",
