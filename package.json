@@ -38,7 +38,7 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "start": "gatsby develop",
-    "serve": "gatsby serve",
+    "serve": "gatsby serve --port $PORT",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
     "test": "echo \"Error: no test specified\"",
     "deploy": "npm run build && gh-pages --branch master --dist public"
