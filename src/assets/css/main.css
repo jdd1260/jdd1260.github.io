@@ -308,7 +308,7 @@ ul ul, ul ol,
 ol ol, ol ul { margin: 6px 0 6px 30px; }
 ul ul li, ul ol li,
 ol ol li, ol ul li { margin-bottom: .4em; }
-li { line-height: 1.2em; margin-bottom: .8em; }
+li { line-height: 1em; margin-bottom: .8em; }
 ul.large li { }
 li p { }
 

@@ -1,5 +1,5 @@
 export const aboutMe =
-  "I'm a California-raised software developer now living in Tacoma, Washington. I take pride in my work, enjoy responsibilty, and like to help others succeed. I currently work at Palmetto, where we are doing great things in the solar energy market. Outside of work, my interests include running, weightlifting, reading, baseball, and my two dogs.";
+  "I'm a full-stack engineer with a passion for well-built projects that make a positive impact on the world. I appreciate high-quality automated testing, maintainable code, thorough code reviews, and a company culture that cares about seeing employees succeed in all parts of their life. I live in Tacoma, Washington where I enjoy our wonderful nature, running, weightlifting, reading, baseball, dogs, and following the news like it's a sport.";
 
 export const contact = {
   name: 'Joel Detweiler',

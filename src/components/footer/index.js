@@ -23,7 +23,7 @@ const Footer = () => (
           </li>
           <li>
             Developed in React ⚛️ by{' '}
-            <a href="http://www.amanhimself.me">{text.author}</a>
+            <a href={text.url}>{text.author}</a>
           </li>
         </ul>
       </div>

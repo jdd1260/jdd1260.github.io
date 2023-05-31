@@ -2,22 +2,23 @@ const jobs = [
   {
     company: 'Palmetto',
     location: 'Remote',
-    dates: 'May 2020 - Present',
+    dates: 'May 2020 - April 2023',
     title: 'Lead/Senior Software Engineer',
     items: [
       'Ownership over REST APIs built with Typescript, Express, and MongoDB',
-      'Architect systems and manage team efforts',
+      'Architected systems and manage team efforts',
       'Maintain team code and testing standards',
     ],
   },
   {
     company: 'University of Washington',
     location: 'Seattle, WA',
-    dates: 'Summers 2020, 2021',
+    dates: 'June 2020 - Present',
     title: 'Extension Lecturer Part-time',
     items: [
-      'Taught Back-End Application Development with JavaScript',
-      'Designed curriculum, created assignments, and wrote auto-grading tests',
+      'Part of a Full-Stack certificate program for new programmers',
+      'Taught Back-End Application Development with JavaScript for three quarters',
+      'Designed curriculum for learning Express and MongoDB, created assignments, and wrote auto-grading tests',
     ],
   },
   {
@@ -26,10 +27,10 @@ const jobs = [
     dates: 'September 2017 - May 2020',
     title: 'Senior JavaScript Developer, Chapter Lead',
     items: [
-      'Developed microservices for AWS Lambda using Typescript.',
-      'Built a real-time big data product using PostgreSQL.',
-      'Used React and Redux for front end development.',
-      'Managed 5-7 full-stack developers.',
+      'Developed microservices for AWS Lambda using Typescript',
+      'Built a real-time big data product using PostgreSQL',
+      'Used React and Redux for front end component library development',
+      'Managed 5-7 full-stack developers',
     ],
   },
   {
@@ -38,9 +39,9 @@ const jobs = [
     dates: 'February 2015 - December 2016',
     title: 'Full-Stack Developer',
     items: [
-      'Ownership over all front end development of company site using AngularJS and AWS.',
-      'Developed REST APIs using Scala, MongoDB, and PostgreSQL.',
-      'Managed collection and display of key company analytics.',
+      'Ownership over all front end development of company site using AngularJS and AWS',
+      'Developed REST APIs using Scala, MongoDB, and PostgreSQL',
+      'Managed collection and display of key company analytics',
     ],
   },
   {
@@ -49,9 +50,9 @@ const jobs = [
     dates: 'August 2012 - February 2015',
     title: 'Associate Software Engineer',
     items: [
-      'Developed rich client-side UIs using JavaScript, jQuery, and AngularJS.',
-      'Built Back End APIs in Java.',
-      'Integrated all work with the Salesforce data platform.',
+      'Developed rich client-side UIs using JavaScript, jQuery, and AngularJS',
+      'Built Back End APIs in Java',
+      'Integrated all work with the Salesforce data platform',
     ],
   },
   // {

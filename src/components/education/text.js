@@ -2,7 +2,7 @@ const schools = [
   {
     name: 'University of Illinois',
     location: 'Urbana, IL',
-    degree: 'Master of Computer Science - Data Science',
+    degree: 'Master of Computer Science - Data Science track',
     date: 'May 2020',
     items: [
       'GPA: 3.90'
