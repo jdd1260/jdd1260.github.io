@@ -4,8 +4,7 @@
   "version": "1.0.1",
   "author": "Joel Detweiler <joeldetweiler@gmail.com>",
   "engines": {
-    "node": "18",
-    "yarn": ">=2"
+    "node": "18"
   },
   "dependencies": {
     "gatsby": "^4.21.1",
